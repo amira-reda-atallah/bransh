@@ -1,2 +1,2 @@
-const name = "amira"
+const my_name = "amira"
 console.log (name)
