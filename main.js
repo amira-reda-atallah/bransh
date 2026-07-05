@@ -1,2 +1,2 @@
 const name = "amira"
-console.log
+console.log (name)
